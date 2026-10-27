@@ -1,0 +1,36 @@
+# Python
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+__pycache__/
+*.pyc
+*.pyo
+
+# Node / Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Databases (large binary files)
+*.db
+
+# Large data files - XLS health reports
+backend/Andhra Pradesh-cummalative/
+backend/Andhra Pradesh-monthwise/
+
+# Large CSV/data files
+backend/ICD10codes.csv
+backend/AP_Healthcare_Statewide_29560_Records.csv
+
+# Scratch
+scratch/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log

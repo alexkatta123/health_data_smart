@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+mysql-connector-python
+pydantic
+pandas
+scikit-learn
+python-multipart
+python-dotenv
+cors
